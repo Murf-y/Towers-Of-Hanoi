@@ -54,9 +54,9 @@ disk 3 => C</pre>
 // In base 2 
     0       0       1
 </pre>
-    First rule, Each bit, that changes from 0 to 1, mean that we need to move the disk associated with that bit. To know the number of moves for disk A, we investigate if the number of disks is even or not.<br>
+    First rule, Each bit, that changes from 0 to 1, mean that we need to move the disk associated with that bit. To know the number of moves for disk A - and only for A - we investigate if the number of disks is even or not.<br>
     In this case, number of disks = 3 (odd), thus we move 2 steps to the right,
-    if the number of disks was even then we only move 1 step.<br>
+    if the number of disks was even then we only move 1 step to the right.<br>
     After we moved disk <strong>A</strong> to the right 2 steps, this is the state of the towers.
     <pre>
     |                   |                   |
