@@ -35,7 +35,7 @@
     <p style="font-size:16px;">This repository, contains the solution for Tower of Hanoi recursively and Itertively.</p>
     <p style="font-size:15px;">I will be explaining my attempt for the iterative solution only, since the recursive one is literally too easy.</p>
     <div>
-    First, without lost of generality, lets assume that the number of disks is 3. And each disk is represented with a alphabetic character, such as the smallest disk start with <strong>A</strong><br>
+    First, without loss of generality, lets assume that the number of disks is 3. And each disk is represented with a alphabetic character, such as the smallest disk start with <strong>A</strong><br>
     <pre>disk 1 => A
 disk 2 => B
 disk 3 => C</pre>
