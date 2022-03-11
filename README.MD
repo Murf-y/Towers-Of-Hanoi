@@ -7,10 +7,11 @@
         There exists 3 Towers, numbered 1, 2 and 3 respectively.<br>
         First Tower contain <strong>N</strong> disks, where the disks are placed in decreasing order, starting from the bottom. For example: <br> 
             <pre>
-    |           |           |
-   *1*          |           |
-  **2**         |           | 
----------   ---------   ---------</pre>
+                |           |           |
+               *1*          |           |
+              **2**         |           | 
+            ---------   ---------   ---------
+Tower number:  (1)         (2)         (3)</pre>
         </li>
         <li style="font-size:16px;">
         Your <l style="color:green;">goal</l> is to move all disks from the first tower (1) to the last tower (3), you can use the middle tower (2) as a transit tower, but you need to obey the <strong>Rules</strong>.
