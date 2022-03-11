@@ -5,7 +5,7 @@
     <ul>
         <li style="font-size:20px;">
         There exists 3 Towers, numbered 1, 2 and 3 respectively.<br>
-        First Tower contain <strong>N</strong> disks, where the disks are placed in decreasing order, starting from the bottom. For example: <br> 
+        First Tower contain <strong>N</strong> disks, <strong>N</strong> is the starting number of disks, and they are always placed in the first tower in the beginning. The disks are placed in decreasing order, starting from the bottom. For example suppose <strong>N</strong>= 2: <br> 
             <pre>
                 |           |           |
                *1*          |           |
