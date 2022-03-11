@@ -275,8 +275,9 @@ public class TowerOfDeath {
 
 		initializeBitsArray(num_of_disks);
 		
-		// The recursove method was used to generate the pattern 
-		// solveTowerOfHanoiRecursively(num_of_disks, 1, 2, 3);
+		// This is the recursive method 
+		solveTowerOfHanoiRecursively(num_of_disks, 1, 2, 3);
+		// This is the iterative method
 		solveTowerOfHanoiIteraively(num_of_disks, tower_start, tower_mid, tower_end);
 
 	}
