@@ -1,14 +1,13 @@
-package Managers;
 /*
 *****************************************************
 * Author: Charbel Fayad
-* Id: 202102394
 * 
 * Date: Feb 27, 2022
 * LastModified: Feb 27, 2022
 * FileName: InputManager.java
 *****************************************************
 */
+package Managers;
 
 import java.util.Scanner;
 

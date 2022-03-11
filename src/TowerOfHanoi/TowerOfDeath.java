@@ -1,14 +1,10 @@
 /* ****************************************************
  *
  * Author: Charbel Fayad
- * Id: 202102394
  * 
  * Date: Mar 8, 2022
  * LastModified: Mar 8, 2022
  * FileName: TowerOfDeath.java
- * 
- * I used a stack to represent a tower , even though we did not take it in class, this part of the assignement is not graded
- * thus i can use what ever datastructure i wanted even if we did not take it :)
  *****************************************************
  */
 package TowerOfHanoi;

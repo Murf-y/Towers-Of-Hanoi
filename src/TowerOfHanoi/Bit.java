@@ -1,3 +1,12 @@
+/* ****************************************************
+ *
+ * Author: Charbel Fayad
+ * 
+ * Date: Mar 8, 2022
+ * LastModified: Mar 8, 2022
+ * FileName: Bit.java
+ *****************************************************
+ */
 package TowerOfHanoi;
 
 public class Bit {
